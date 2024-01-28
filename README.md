@@ -1,9 +1,7 @@
 # LoCoFit
 ## Team -
 ### [Kamal D. Agrahari](https://github.com/kamalagrahari03) 
-### [Rutvik P. Gondekar](https://github.com/Rutvikgg)   
-### [Chaitanya A. Haryan](https://github.com/God-Chaitanya) 
-### [Yash M. Jadhav](https://github.com/Ymj26) 
+### [Rutvik P. Gondekar](https://github.com/Rutvikgg)  
 
 ## Descripiton
 
