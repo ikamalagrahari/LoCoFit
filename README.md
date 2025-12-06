@@ -1,7 +1,7 @@
 # LoCoFit 
 # Location and Fitness Tracking App
 ## Team -
-### [Kamal D. Agrahari](https://github.com/kamalagrahari03) 
+### [Kamal D. Agrahari](https://github.com/ikamalagrahari) 
 ### [Rutvik P. Gondekar](https://github.com/Rutvikgg)  
 ### [Chaitanya A. Haryan](https://github.com/God-Chaitanya) 
 ### [Yash M. Jadhav](https://github.com/Ymj26) 
