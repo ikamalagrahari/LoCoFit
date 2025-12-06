@@ -66,7 +66,7 @@ Monitor your progress with ease through intuitive charts and graphs. Witness you
 
 
 
-GitHub Link : https://github.com/kamalagrahari03/LoCoFit
+GitHub Link : https://github.com/ikamalagrahari/LoCoFit
 
 
 
