@@ -117,18 +117,19 @@ Welcome to the next level of fitness tracking and wellness experience! 🌐🏋�
 
 
 # Screen Shots
-## Login Page:
+## Screen Shots
 
-![WhatsApp Image 2024-01-26 at 4 59 05 PM](https://github.com/Rutvikgg/locofit/assets/133527690/5feef782-363f-47a2-a7d1-048f382f0f00)
+| Login Page | Home Page | Integrated Map Page |
+|------------|-----------|---------------------|
 
-## Home Page :  
-![WhatsApp Image 2024-01-26 at 5 38 53 PM](https://github.com/Rutvikgg/locofit/assets/133527690/17b6c808-e98b-4c79-b31c-c18d9ee2f86f)
-
-## Integrated Map Page :
-![WhatsApp Image 2024-01-26 at 5 00 01 PM](https://github.com/Rutvikgg/locofit/assets/133527690/b2a36119-8110-460b-94f1-625d51a57e07)
+<p float="left">
+  <img src="https://github.com/Rutvikgg/locofit/assets/133527690/5feef782-363f-47a2-a7d1-048f382f0f00" width="300" height="600" />
+  <img src="https://github.com/Rutvikgg/locofit/assets/133527690/17b6c808-e98b-4c79-b31c-c18d9ee2f86f" width="300" height="600" />
+  <img src="https://github.com/Rutvikgg/locofit/assets/133527690/b2a36119-8110-460b-94f1-625d51a57e07" width="300" height="600" />
+</p>   
 
 # Screen Recordings
-
+  
 ## Application Login System :
 New users can access the app by establishing their profile through a comprehensive registration form.
 
